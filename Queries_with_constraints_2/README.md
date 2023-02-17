@@ -60,4 +60,5 @@ Table: Movies
 | 12     	| Cars 2              	| John Lasseter  	| 2010     	| 120                	|
 | 13     	| Brave               	| Brenda Chapman 	| 2012     	| 102                	|
 | 14     	| Monsters University 	| Dan Scanlon    	| 2013     	| 110                	|
+| 87		| WALL-G		| Brenda Chapman	| 2042		| 97			|
 
